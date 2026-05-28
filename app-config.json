@@ -1,0 +1,7 @@
+{
+  "api_url": "https://your-render-app.onrender.com",
+  "min_app_version": "1.0.0",
+  "latest_app_version": "1.0.0",
+  "update_message": "Update available!",
+  "maintenance_mode": false
+}
